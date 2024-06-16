@@ -1,16 +1,20 @@
 <br clear="both">
 
-<h3 align="center">Hie I am ADITYA RAGHUNATH SINGH</h3>
+<h1 align="left">📍 Hie I am ADITYA RAGHUNATH SINGH</h1>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">💻 Tech Enthusiast: Proficient in [Your Key Languages/Technologies] | Exploring [Emerging Tech/Areas of Interest]<br><br>🛠️ Problem Solver: Love tackling complex challenges and optimizing systems for peak performance.<br><br>🚀 Innovator: Always on the lookout for the latest trends and best practices in the tech world.<br><br>🎯 Mission: To build solutions that enhance user experience and drive innovation.<br><br>🌱 Lifelong Learner: Constantly honing my skills and learning new ones to stay ahead in the ever-evolving tech landscape.</p>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=440watts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=true&order=2&custom_title=Languages%20Used" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=440watts&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1&custom_title=GitHub%20Stats" height="165" alt="stats graph"  />
 </div>
+
+###
+
+<h1 align="left">⚙️Tech Stack</h1>
 
 ###
 
@@ -32,13 +36,13 @@
 
 ###
 
-<img align="left" height="260" src="https://media1.tenor.com/m/NbzuesZ98n4AAAAC/banner-discord.gif"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=440watts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=dark&hide_border=true&order=2&custom_title=Languages%20Used" height="151" alt="languages graph"  />
+</div>
 
 ###
 
-<br clear="both">
-
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=440watts.440watts&left_color=black&right_color=darkgray&left_text=Profile%20Views"  />
+<h1 align="left">🚧 Social Accounts</h1>
 
 ###
 
@@ -50,5 +54,15 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
+
+###
+
+<img align="left" height="260" src="https://media1.tenor.com/m/NbzuesZ98n4AAAAC/banner-discord.gif"  />
+
+###
+
+<br clear="both">
+
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=440watts.440watts&left_color=black&right_color=darkgray&left_text=Profile%20Views"  />
 
 ###

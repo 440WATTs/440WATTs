@@ -4,7 +4,17 @@
 
 ###
 
-<p align="left">💻 Tech Enthusiast: Proficient in [Your Key Languages/Technologies] | Exploring [Emerging Tech/Areas of Interest]<br><br>🛠️ Problem Solver: Love tackling complex challenges and optimizing systems for peak performance.<br><br>🚀 Innovator: Always on the lookout for the latest trends and best practices in the tech world.<br><br>🎯 Mission: To build solutions that enhance user experience and drive innovation.<br><br>🌱 Lifelong Learner: Constantly honing my skills and learning new ones to stay ahead in the ever-evolving tech landscape.</p>
+<p align="left">
+  💻 I like TECH (a looottt)
+  <br><br>
+  🏛️ Artist | Athlete | Editor
+  <br><br>
+  🚀 Tryna create things (we both may like)
+  <br><br>
+  🎯 Mission: To build my dream setup 
+  <br><br>
+  ⚗️ Wana do something cool to let people recognise me
+</p>
 
 ###
 

@@ -9,9 +9,9 @@
   <br><br>
   🏛️ Artist | Athlete | Editor
   <br><br>
-  🚀 Tryna create things (we both may like)
+  🚀 Tryna create things
   <br><br>
-  🎯 Mission: To build my dream setup 
+  🎯 Mission: To build the dream setup 
   <br><br>
   ⚗️ Wana do something cool to let people recognise me
 </p>

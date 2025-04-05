@@ -5,15 +5,15 @@
 ###
 
 <p align="left">
-  💻 I like TECH (a looottt)
+  💻 I like TECH (a lot)
   <br><br>
   🏛️ Artist | Athlete | Editor
   <br><br>
-  🚀 Tryna create things
+  🚀 Have Dream Projects plans, eagerly wana work on them 
   <br><br>
-  🎯 Mission: To build the dream setup 
+  🎯 Goal is to build my dream setup 
   <br><br>
-  ⚗️ Wana do something cool to let people recognise me
+  ⚗️ Love the process of creating 
 </p>
 
 ###

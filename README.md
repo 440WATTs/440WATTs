@@ -5,16 +5,17 @@
 ###
 
 <p align="left">
-  💻 I like TECH (a lot)
+  💻 I’m deeply passionate about technology  
   <br><br>
-  🏛️ Artist | Athlete | Editor
+  🏛️ Artist | Athlete | Editor  
   <br><br>
-  🚀 Have Dream Projects plans, eagerly wana work on them 
+  🚀 I have several dream projects planned and am eager to bring them to life  
   <br><br>
-  🎯 Goal is to build my dream setup 
+  🎯 My goal is to build my dream setup  
   <br><br>
-  ⚗️ Love the process of creating 
+  ⚗️ I love the process of creating and learning along the way  
 </p>
+
 
 ###
 
